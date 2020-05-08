@@ -17,8 +17,6 @@ You will find one class per object needed at screens, the main functionality is 
 
 ## Final results
 
-<center>
-
-![Gameplay](sources/1010FormsGameplay.gif)
-
-</center>
+<p align="center">
+  <img src="sources/1010FormsGameplay.gif">
+</p>
